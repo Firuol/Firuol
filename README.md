@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase, graphic design**
 
-- 👨‍💻 All of my projects are available at [https://firuol.github.io/react_portfolio/](https://firuol.github.io/react_portfolio/)
+- 👨‍💻 All of my projects are available at [[https://firuol.github.io/react_portfolio/](https://firuol.github.io/react_portfolio/](https://firuol.github.io/new-fully-responsive-portifolio/))
 
 - 💬 Ask me about **web designing and mobile application development**
 
